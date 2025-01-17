@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Goguma
+Comment=An IRC client for mobile devices
+Exec=/opt/goguma/goguma
+Type=Application
+Icon=goguma
